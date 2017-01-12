@@ -1,7 +1,7 @@
 {
   "name": "truffle",
   "namespace": "consensys",
-  "version": "3.0.0-7",
+  "version": "3.0.1-digix",
   "description": "Truffle - Simple development framework for Ethereum",
   "dependencies": {
     "async": "^1.4.2",
@@ -14,7 +14,7 @@
     "colors": "^1.1.2",
     "cpr": "^0.4.3",
     "del": "^2.2.0",
-    "ether-pudding": "git://github.com/DigixGlobal/ether-pudding.git#d53aaf619fdea356450a6d1dc83cec9b120b4113",
+    "ether-pudding": "git://github.com/DigixGlobal/ether-pudding.git#687cb263e7f63fad12e5cde21ae06adf9d7166a5",
     "finalhandler": "^0.4.0",
     "find-up": "^1.1.2",
     "graphlib": "^2.0.0",
